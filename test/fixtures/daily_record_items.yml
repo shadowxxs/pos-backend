@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  daily_record: one
+  money_count: one
+  count: 1
+
+two:
+  daily_record: two
+  money_count: two
+  count: 1
